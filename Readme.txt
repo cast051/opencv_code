@@ -7,10 +7,10 @@ Hough.cpp                        -->      霍夫线变换、圆变换
 Laplace.cpp                       -->      拉普拉斯边缘检测
 Pyramid.cpp                      -->      图像金字塔
 Remap_WarpAffine.cpp     -->      重映射和仿射
-Scharr.cpp                         -->      边缘检测
+Scharr.cpp                         -->      Scharr边缘检测
 Sobel.cpp                          -->      Sobel边缘检测
-Pyramid.cpp                      -->      图像金字塔
 Surf.cpp                            -->      角点检测
-
+Blur.cpp		        -->       滤波
+ 
 
 
