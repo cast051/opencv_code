@@ -11,6 +11,6 @@ Scharr.cpp                         -->      Scharr边缘检测
 Sobel.cpp                          -->      Sobel边缘检测
 Surf.cpp                            -->      角点检测
 Blur.cpp		        -->       滤波
- 
+ORB.cpp                           -->       ORB特征提取
 
 
